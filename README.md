@@ -1,4 +1,4 @@
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
+![ViewCount](http://bit.ly/vsmrnw)
 
 # Hi, welcome to my github 👋
 
