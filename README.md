@@ -4,7 +4,7 @@
 
 ### :man_technologist: About:
 
-Python developer with a 2.5 years background in application/infrastructure security. Started career at an IT/IS solutions distribution company where I was researching products in application security. After that I decided to familiarize with the Python language in detail, starting with the python for pentester course, studied the peculiarities and subtleties of the language and the django/drf framework and FastAPI. During this time I made several pet projects and also worked on a commercial project for a digital agency and updated their backend using drf, docker, postgress and gitlab as CI/CD. Interested in working with high load projects/microservices, FastAPI.
+Python developer with a 2.5 years background in application/infrastructure security. Started career at an IT/IS solutions distribution company where I was researching products in application security. After that I decided to familiarize with the Python language in detail, starting with the python for pentester course, studied the peculiarities and subtleties of the language and the django/drf, FastAPI. During this time I made several pet projects and also worked on a commercial project for a digital agency and updated their backend using drf, docker, postgress and gitlab as CI/CD. Interested in working with high load projects/microservices, FastAPI.
 <br />I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Programming :robot: 
 
 - :mailbox: Contacts:
