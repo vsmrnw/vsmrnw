@@ -1,4 +1,6 @@
-# Hi, welcome to my github 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seva!;" />
+</h1>
 
 ---
 
@@ -8,8 +10,17 @@ Python developer with a 2.5 years background in application/infrastructure secur
 <br />I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, Programming :robot: 
 
 - :mailbox: Contacts:
-  <a target="_blank" href="https://www.linkedin.com/in/vsevolod-smirnov/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:vsevolod.smrnv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<div align="center"> 
+  <a href="mailto:vsevolod.smrnv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/vsevolod-smirnov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://t.me/vsevolod_sm" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ---
 
