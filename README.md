@@ -7,7 +7,7 @@
 ### :man_technologist: About:
 
 Python developer with a 2.5 years background in application/infrastructure security. Interested in working with high load projects/microservices, FastAPI.
-<br />I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, Programming :robot: 
+<br />I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :robot: Programming  
 
 - :mailbox: Contacts:
 <div align="center"> 
