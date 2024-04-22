@@ -7,8 +7,8 @@
 ### :man_technologist: About:
 
 Passionate Python developer with a strong background in Cybersecurity. Works with relevant Web Frameworks and
-Back-end systems. Striving for a balance between best practices and early feature delivery. Seeking a challenging
-position that will allow to contribute to an organization’s success and drive exceptional results.
+Back-end systems. Striving for a balance between best practices and early feature delivery. 
+<br />Seeking a challenging position that will allow to contribute to an organization’s success and drive exceptional results.
 <br />I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :robot: Programming  
 
 - :mailbox: Contacts:
